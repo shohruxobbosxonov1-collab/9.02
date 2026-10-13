@@ -1,0 +1,6 @@
+{
+  "name": "Class Home — Our Class, Our Memories",
+  "description": "An interactive digital classroom and memory archive celebrating our 14 students with 3D classroom exploration, personal profiles, yearbook memories, photo galleries, and an interactive memory wall.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
